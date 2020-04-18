@@ -1,4 +1,4 @@
-# Author: OMKAR PATHAK
+# Author: Anjani Kumar
 
 class Array(object):
     ''' sizeOfArray: denotes the total size of the array to be initialized
