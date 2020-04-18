@@ -1,4 +1,4 @@
-# Author: OMKAR PATHAK
+# Author: Anjani Kumar
 
 class Deque(object):
     def __init__(self, limit = 10):
