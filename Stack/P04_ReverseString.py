@@ -1,4 +1,4 @@
-# Author: OMKAR PATHAK
+# Author: Anjani Kumar
 
 # Reverse a string using Stack
 
