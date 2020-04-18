@@ -1,4 +1,4 @@
-# Author: AJVirus
+# Author: Anjani Kumar
 
 class Node(object):
     def __init__(self, data = None):
