@@ -1,4 +1,4 @@
-# Author: OMKAR PATHAK
+# Author: Anjani Kumar
 
 #  Approach:
 #  Heap sort happens in two phases. In the first phase, the array
