@@ -1,4 +1,4 @@
-# Author: OMKAR PATHAK
+# Author: Anjani Kumar
 
 # recursive fibonacci solution has a time complexity of O(2 ^ n).
 # To reduce this we can use dynamic programming. Dictionary data structure is used to drastically reduce
