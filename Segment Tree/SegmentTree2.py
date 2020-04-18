@@ -1,3 +1,5 @@
+# Author: Anjani Kumar
+
 import sys
 
 class SegmentTree:
