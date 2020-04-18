@@ -1,4 +1,4 @@
-# Author: OMKAR PATHAK
+# Author: Anjani Kumar
 
 # leaf node is the one which does not have any children
 
