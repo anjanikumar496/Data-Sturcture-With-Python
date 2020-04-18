@@ -1,4 +1,4 @@
-# Author: OMKAR PATHAK
+# Author: Anjani Kumar
 
 class Node(object):
     # Each node has its data and a pointer that points to next node in the Linked List
