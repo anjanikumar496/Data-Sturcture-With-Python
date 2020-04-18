@@ -1,4 +1,4 @@
-# Author: OMKAR PATHAK
+# Author: Anjani Kumar
 
 # this program will illustrate an example for finding the longest CONTINUOUS ODD subsequence
 
