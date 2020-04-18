@@ -1,4 +1,5 @@
-#Represents the node of list.    
+# Author: Anjani Kumar
+# Represents the node of list.    
 class Node:    
   def __init__(self,data):    
     self.data = data;    
