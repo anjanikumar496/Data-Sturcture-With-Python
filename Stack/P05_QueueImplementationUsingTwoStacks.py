@@ -1,3 +1,5 @@
+# Author: Anjani Kumar
+
 class StackedQueue:
 
     def __init__(self):
