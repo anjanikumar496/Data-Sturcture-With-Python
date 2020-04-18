@@ -1,4 +1,4 @@
-# Author: Parameswaran
+# Author: Anjani Kumar
 
 # sample object
 class Sample:
