@@ -1,4 +1,4 @@
-# Author: OMKAR PATHAK
+# Author: Anjani Kumar
 
 # Time Complexity: O(|V| + |E|)
 # One important point to remember is that topological sort can be applied only to acyclic graph.
