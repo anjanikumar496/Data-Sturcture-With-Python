@@ -1,4 +1,4 @@
-
+# Author: Anjani Kumar
 
 class Node(object):
 	"""docstring for Node"""
