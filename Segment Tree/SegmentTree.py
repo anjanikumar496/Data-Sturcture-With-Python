@@ -1,3 +1,5 @@
+# Author: Anjani Kumar
+
 class SegmentTree:
     def __init__(self, values):
         self.valarr = values
